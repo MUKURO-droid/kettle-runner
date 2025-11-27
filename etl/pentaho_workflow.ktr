@@ -469,7 +469,7 @@
       <method>none</method>
       <schema_name/>
     </partitioning>
-    <filename>https://github.com/MUKURO-droid/kettle-runner/blob/main/etl/bank_transactions_data_edited.csv</filename>
+    <filename>/etl/bank_transactions_data_edited.csv</filename>
     <filename_field/>
     <rownum_field/>
     <include_filename>N</include_filename>
@@ -1139,4 +1139,5 @@
   <slave_transformation>N</slave_transformation>
   <attributes/>
 </transformation>
+
 
